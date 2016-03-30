@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
-	<artifactId>mule-project-tes</artifactId>
+	<artifactId>mule-project-ram</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule maven-project Application</name>
